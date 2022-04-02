@@ -21,5 +21,6 @@ https://www.ucd.ie/ecomodel/Resources/Sheet3_visualisation_WebVersion.html
 https://yuzar-blog.netlify.app/posts/2021-01-09-exploratory-data-analysis-and-beyond-in-r-in-progress/
 
 
+https://experception.net/Franconeri_ExperCeptionDotNet_DataVisQuickRef.pdf
 
 

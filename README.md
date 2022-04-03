@@ -12,6 +12,9 @@ https://choonghyunryu.github.io/dlookr_vignette/EDA.html
 Exploratory Data Analysis. R. Roger D. Peng, 2020
 https://bookdown.org/rdpeng/exdata/
 
+R demo | Automated Exploratory Data Analysis (EDA) Reports (with only 1 function for each report)
+https://www.youtube.com/watch?v=sKrWYE63Vk4&ab_channel=yuzaRDataScience
+
 https://www.littlemissdata.com/blog/simple-eda
 
 https://www.littlemissdata.com/blog/inspectdf

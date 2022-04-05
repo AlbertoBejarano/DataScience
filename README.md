@@ -23,7 +23,6 @@ https://www.ucd.ie/ecomodel/Resources/Sheet3_visualisation_WebVersion.html
 
 https://yuzar-blog.netlify.app/posts/2021-01-09-exploratory-data-analysis-and-beyond-in-r-in-progress/
 
-
 https://experception.net/Franconeri_ExperCeptionDotNet_DataVisQuickRef.pdf
 
 Heatmap in R: Static and Interactive Visualization
@@ -32,7 +31,8 @@ https://www.datanovia.com/en/lessons/heatmap-in-r-static-and-interactive-visuali
 ComplexHeatmap Complete Reference
 https://jokergoo.github.io/ComplexHeatmap-reference/book/
 
-
+Faceted Heatmaps with ggplot2
+https://rud.is/b/2016/02/14/making-faceted-heatmaps-with-ggplot2/
 
 
 

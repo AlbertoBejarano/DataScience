@@ -29,7 +29,8 @@ https://experception.net/Franconeri_ExperCeptionDotNet_DataVisQuickRef.pdf
 Heatmap in R: Static and Interactive Visualization
 https://www.datanovia.com/en/lessons/heatmap-in-r-static-and-interactive-visualization/
 
-
+ComplexHeatmap Complete Reference
+https://jokergoo.github.io/ComplexHeatmap-reference/book/
 
 
 

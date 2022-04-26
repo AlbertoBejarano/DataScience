@@ -36,10 +36,12 @@ https://rud.is/b/2016/02/14/making-faceted-heatmaps-with-ggplot2/
 
 
 
+Survival Analysis with lifelines:
 
-
-
-
+https://github.com/chrisluedtke/data-science-journal/blob/master/07-Advanced-Regression/02_Survival_Analysis.ipynb
+https://medium.com/the-researchers-guide/survival-analysis-in-python-km-estimate-cox-ph-and-aft-model-5533843c5d5d
+https://programmer.ink/think/survival-analysis-with-lifelines-python-version.html
+https://lifelines.readthedocs.io/en/latest/Examples.html
 
 
 
